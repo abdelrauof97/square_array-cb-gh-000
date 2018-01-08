@@ -5,4 +5,3 @@ def square_array(array)
     x**2
   end
 end
-puts 2**2
