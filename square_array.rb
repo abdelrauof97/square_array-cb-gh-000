@@ -6,4 +6,4 @@ def square_array(array)
   end
 end
 puts square_array(numbers)
-puts square_array(new_numbers)
+puts 2^2
