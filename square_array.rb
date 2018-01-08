@@ -3,4 +3,4 @@ def square_array(array)
     x^2
   end
 end
-square_array([numbers])
+square_array(numbers)
