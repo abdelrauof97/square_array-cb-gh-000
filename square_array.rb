@@ -5,5 +5,4 @@ def square_array(array)
     x^2
   end
 end
-x = 2^2
 puts x
